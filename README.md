@@ -26,6 +26,14 @@ Additionally, measure the AUC-ROC metric and compare it with the F1.
   * EstimatedSalary — estimated salary
 * Target
   * Exited — сustomer has left
+  
+## Libraries Used
+- Pandas
+- Matplotlib.pyplot
+- scipy.stats
+-numpy
+- sklearn  
+
 ## Models Evaluated
 * DecisionTreeClassifier
 * RandomForestClassifier
